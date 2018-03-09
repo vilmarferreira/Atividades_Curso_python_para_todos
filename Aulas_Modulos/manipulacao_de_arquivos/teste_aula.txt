@@ -1,0 +1,4 @@
+Olá, estou escrevendo no arquivo .
+Olá, está é a segunda linha  .
+XXXX, estou escrevendo no arquivo .
+XXXX, está é a segunda linha  .
