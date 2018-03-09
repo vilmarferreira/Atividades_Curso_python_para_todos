@@ -3,7 +3,7 @@ import traceback
 import json
 from flask import Flask, request
 
-token = "EAANqZBk5yVZAgBABE5qoccFcJLBohyEPnSc6YjwuhEj2Mf0Ni2G8FbJR4dWU5C8N8qXaFJzN86uKciDuohZCbfDmF5aBRvewWQGUqSkgIinG8j5gy41ZA2LlrMT9WEnRk2C0tDqX8zpDKPu5AiXVir1HEaSF38QWXViHWpBHaAZDZD"
+token = "xxxxxxxx"
 app = Flask(__name__)
 
 @app.route ('/', methods= ['GET', 'POST'])
