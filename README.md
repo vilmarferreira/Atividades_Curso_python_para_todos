@@ -1,6 +1,6 @@
 #Atividades referentes ao curso Python para todos na Udemy.
-#Herança em Python
-#Modulos
+Herança em Python
+Modulos
 #ChatBot para facebook mensseger
 #discritor em python
 #funções
